@@ -1,0 +1,5 @@
+{
+  "name": "CSV Data Entry Tool",
+  "description": "A sleek and modern web application to enter data row-by-row and export it as a CSV file. Data is stored in the browser session and can be downloaded at any time.",
+  "requestFramePermissions": []
+}
